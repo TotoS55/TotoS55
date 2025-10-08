@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @andrei-dev  
+### 👋 Hi, I’m @steph  
 
 🎨 I come from a creative background (graphic design & video editing)<br/> 
 💻 I'm on a journey to become a Full Stack Developer<br/>
