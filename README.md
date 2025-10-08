@@ -1,8 +1,7 @@
 ### 👋 Hi, I’m @steph  
 
 🎨 I come from a creative background (graphic design & video editing)<br/> 
-💻 I'm on a journey to become a Full Stack Developer<br/>
-🌱 Currently learning JavaScript and backend fundamentals<br/> 
+🌱 Currently learning Java and Spring<br/> 
 📚 Passionate about solving real problems through code<br/>
 🚀 Future goal: Work remotely with international teams & build tools for creators<br/> 
 📁 Portfolio coming soon!<br/>
